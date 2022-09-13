@@ -7,3 +7,5 @@
 5- git checkout -- .
 6- git checkout -b rama-heroes
 7- git branch
+8- git merge rama-heroes
+9- git push
